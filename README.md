@@ -22,7 +22,7 @@ Separate directories are created for the converted 2D images and labels.
 * Method:
 Maximum intensity projection (MIP) is applied along the Z-axis to obtain a 2D image from each 3D volume.
 ## **4. Building Data Dictionaries**
-* Train Data Dictionary:
+* Train Data Dictionary
 * Test Data Dictionary
 ## **5. Define Transforms and DataLoaders**
 ### **Training and Testing Transforms**
